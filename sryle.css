@@ -1,0 +1,17 @@
+.img-class {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-class {
+  margin-top: -10px;
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  padding: 20px 50px;
+  font-size: 35px;
+  border-radius: 10px;
+}
